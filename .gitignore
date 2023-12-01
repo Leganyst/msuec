@@ -1,0 +1,6 @@
+**/*.out
+**/*.exe
+**/*.txt
+
+.vscode/
+bin/
